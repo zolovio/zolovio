@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2530667/screenshots/5352749/media/7993c02b16bf36ac6dd075e63944712b.png )]
+![MasterHead](https://cdn.dribbble.com/users/2530667/screenshots/5352749/media/7993c02b16bf36ac6dd075e63944712b.png )
 <h1 align="center">Hi 👋, I'm Zolovio by Rogpad Technologies OPC Pvt Ltd</h1>
 <h3 align="center">Zolovio: Revolutionizing industries with cutting-edge technology solutions for business success.</h3>
 
